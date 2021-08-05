@@ -1,19 +1,43 @@
+# [ADB TOOLKIT](https://github.com/matheusjohannaraujo/adb_toolkit)
+
 ```php
 const DEVELOPER_INFO = [
     "autor" => "Matheus Johann Araújo",
     "country" => "Brasil",
     "state" => "Pernambuco",
-    "date" => "2021-08-01"
+    "date" => "2021-08-12"
 ];
 ```
 
-## INSTALLER
+<hr>
 
-> ### Extracting the `scrcpy-win64-v1.12.1-phone-sploit.7z` file
+## THE PROGRAMS THAT MAKE UP `ADB TOOLKIT` ARE:
+
+> ### [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+
+> ### [PHP](https://www.php.net/downloads)
+
+> ### [VLC](https://www.videolan.org)
+
+> ### [SCRCPY](https://github.com/Genymobile/scrcpy)
+
+> ### [SNDCPY](https://github.com/rom1v/sndcpy)
+
+> ### [GNIREHTET](https://github.com/Genymobile/gnirehtet)
+
+> ### [PHONE SPLOIT](https://github.com/aerosol-can/PhoneSploit)
+
+<hr>
+
+## INSTALLATION AND USE GUIDE:
+
+> ### [CLICK HERE TO VIEW THE COMPLETE INSTALLATION AND USE GUIDE ON YOUTUBE](https://www.youtube.com/watch?v=yUXLOts7-Ek)
+
+> ### Extracting the `adb_tools.7z` file
 
 > ![1](1.png)
 
-> ### Move the extracted project to `C:\scrcpy-win64-v1.12.1-phone-sploit.7z`
+> ### Move the extracted project to `C:\adb_tools`
 
 > ![2](2.png)
 
@@ -21,19 +45,21 @@ const DEVELOPER_INFO = [
 
 > ![3](3.png)
 
-> ### Using the ​​`adb` and ` adb-wifi` executables
+> ### Using the `adb` and ` adb-tools` executables
 
 > ![4](4.png)
 
-> ### Results of running the `adb-wifi` program
+> ### Results of running the `adb` option `wifi` program
 
 > ![5](5.png)
 
-> ### Device screen mirror, and Android shell access via `adb-wifi`
+> ### Device screen mirror (`scrcpy`), and Android shell access via `adb shell`
 
 > ![6](6.png)
 
-## List of ADB Commands
+<hr>
+
+## LIST OF ADB COMMANDS:
 
 ```php
 # REFERENCES:
