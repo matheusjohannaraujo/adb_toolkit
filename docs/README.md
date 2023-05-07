@@ -5,19 +5,23 @@ const DEVELOPER_INFO = [
     "autor" => "Matheus Johann Araújo",
     "country" => "Brasil",
     "state" => "Pernambuco",
-    "date" => "2022-03-21"
+    "date" => "2023-05-06"
 ];
 ```
 
 <hr>
 
-## THE PROGRAMS THAT MAKE UP `ADB TOOLKIT` ARE:
+## THE PROGRAMS NECESSARY FOR `ADB TOOLKIT` TO WORK ARE:
 
 > ### [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
+> ### [VLC](https://www.videolan.org)
+
 > ### [PHP](https://www.php.net/downloads)
 
-> ### [VLC](https://www.videolan.org)
+> ### [JAVA](https://www.oracle.com/br/java/technologies/downloads/)
+
+> ### [PYTHON](https://www.python.org/downloads/)
 
 > ### [SCRCPY](https://github.com/Genymobile/scrcpy)
 
